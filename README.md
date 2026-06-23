@@ -16,4 +16,4 @@ Welcome to the repository of my personal portfolio website! This project is desi
 
 1. Clone the repository:
 ```bash
-   git clone [https://github.com/castolia/Castolia-Portfolio.git](https://github.com/castolia/Castolia-Portfolio.git)
+   git clone https://github.com/castolia/Castolia-Portfolio.git
